@@ -1,0 +1,80 @@
+[
+    {
+        "model": "products.product",
+        "pk": 1,
+        "fields": {
+            "name": "╒єфш ўхЁэюую ЎтхЄр ё ьюэюуЁрььрьш adidas Originals",
+            "image": "products_images/Adidas-hoodie.png",
+            "description": "",
+            "short_description": "╠ уър  Єърэ№ фы  ётшЄ°юЄют. ╤Єшы№ ш ъюьЇюЁЄ Ц ¤Єю юсЁрч цшчэш.",
+            "price": "6090.00",
+            "quantity": 4,
+            "category": 1
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 2,
+        "fields": {
+            "name": "╤шэ   ъєЁЄър The North Face",
+            "image": "products_images/Blue-jacket-The-North-Face.png",
+            "description": "",
+            "short_description": "├ырфър  Єърэ№. ┬юфюэхяЁюэшЎрхьюх яюъЁ√Єшх. ╦хуъшщ ш Єхяы√щ яєїют",
+            "price": "23725.00",
+            "quantity": 18,
+            "category": 1
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 3,
+        "fields": {
+            "name": "╩юЁшўэхт√щ ёяюЁЄштэ√щ oversized-Єюя ASOS DESIGN",
+            "image": "products_images/Brown-sports-oversized-top-ASOS-DESIGN.png",
+            "description": "",
+            "short_description": "╠рЄхЁшры ё яы■°хтющ ЄхъёЄєЁющ. ╙фюсэ√щ ш ь уъшщ.",
+            "price": "3390.00",
+            "quantity": 12,
+            "category": 1
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 4,
+        "fields": {
+            "name": "╫хЁэ√щ Ё■ъчръ Nike Heritage",
+            "image": "products_images/Black-Nike-Heritage-backpack.png",
+            "description": "",
+            "short_description": "╧ыюЄэр  Єърэ№. ╦хуъшщ ьрЄхЁшры.",
+            "price": "2340.00",
+            "quantity": 24,
+            "category": 3
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 5,
+        "fields": {
+            "name": "╫хЁэ√х ЄєЇыш эр яырЄЇюЁьх ё 3 ярЁрьш ы■тхЁёют Dr Martens 1461 Bex",
+            "image": "products_images/Black-Dr-Martens-shoes.png",
+            "description": "",
+            "short_description": "├ырфъшщ ъюцрэ√щ тхЁї. ═рЄєЁры№э√щ ьрЄхЁшры.",
+            "price": "13590.00",
+            "quantity": 10,
+            "category": 4
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 6,
+        "fields": {
+            "name": "╥хьэю-ёшэшх °шЁюъшх ёЄЁюушх сЁ■ъш ASOS DESIGN",
+            "image": "products_images/Dark-blue-wide-leg-ASOs-DESIGN-trousers.png",
+            "description": "",
+            "short_description": "╦хуър  ¤ырёЄшўэр  Єърэ№ ёшЁёръхЁ ╘ръЄєЁэр  Єърэ№.",
+            "price": "2890.00",
+            "quantity": 3,
+            "category": 1
+        }
+    }
+]

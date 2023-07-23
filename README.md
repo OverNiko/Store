@@ -1,0 +1,2 @@
+# Store
+Django store

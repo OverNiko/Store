@@ -1,2 +1,2 @@
 # Store
-Django store
+Finalised the finished layout using Django backend.

@@ -1,5 +1,6 @@
 # Store
 Finalised the finished layout using Django backend.
+
 The shopping basket is not working yet.
 
 ## Home page

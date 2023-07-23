@@ -129,5 +129,3 @@ dmypy.json
 .pyre/
 .idea/*
 .env
-
-**/pars_os.py

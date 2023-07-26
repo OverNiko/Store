@@ -62,7 +62,7 @@ def basket_delete(request, id):
         basket.quantity -= 1
         basket.save()
         return HttpResponseRedirect(request.META.get('HTTP_REFERER'))
-    else:
+    elif basket.quantity == 1:
         basket.delete()
         basket.save()
         return HttpResponseRedirect(request.META.get('HTTP_REFERER'))
